@@ -1,0 +1,24 @@
+{
+  "format": "rah/build/1",
+  "tool": "riemann-at-home 1.0.0",
+  "archive_sha256": "9631b4f020199e580ba86178cb56c6e9b09f690c2369a80dc4334aa93f49c7fc",
+  "toolchain": "leanprover/lean4:v4.33.1",
+  "mathlib_rev": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "build_folder": "/Users/Shared/riemann-at-home/lean",
+  "build_id": "b4e604bd6fb4fc81",
+  "machine": {
+    "os": "Darwin 27.2.0",
+    "arch": "arm64",
+    "cpu": "Apple M3 Ultra",
+    "cores": 28
+  },
+  "started": "2026-11-22T17:16:51Z",
+  "recorded": "2026-11-26T11:22:08Z",
+  "busy_seconds": 324317,
+  "modules_compiled": 174323,
+  "bitmap_b64": "H4sIAAAAAAAC/+2bPW/UMBjHT2LowNCZqSMfoBuLJ8RY8QWo+ASIiQGphqUsiIEViQwMHRhAgoWF8LbfwFQhYRCikVisKoj06sTmckl75+TsPEnuylX8f1KvujRx7Of9cVJjwDlB5B/c+Wed1U4uUOQ7aG7k+FcYFl+l0ZA6AAC4kI6IvPEtIl3PtR2hwwXPL7EmO/lMKamgnE1wuoqRJyvNIbVXwrz5hJufxAxlnLfza8k3XVkOHeVLPM2iLJ29q+qsgHhW04VcEuoltow6mafD5BoZbs47ytrPwLKbLw7tKaoFk1BUScwS9XS0sVT5rtnQY+2NiAMHdftVsq/DB03mFDQOMdeZhmlzgIpqV4dec6AtQgwdZz2oBoXa3Y68LkWhrVmk1VWKflV03NXZSlkEcsG36OMgzVHHaabTq0U9Gu30nBpNAsl7wzSTDutgY+F/yvUvi8RZxK3JyJEjhMXj48/41F9SRvB+mjUJR8ZibcOm8xRV/gii9hdvULqFN7SHeXNdVlmZrbjt1a9bayZ56cBeFj1zkquwZivgXsMbCUr2ake5Yp50K5P8JvSu8ZQXawcrYQ5qucPrqruKauQIvOUr0QQv/G5bCzuSUFKxgsknq5YD25rUuOkZx5I093FHLtbVNy1CYeKPRivHQBG3IkHulYzmDeFi7LCQfyhrwTbsqF1Nk6ciDJh0W9mTmfomLJeVHncqN7U+g+zap+Pw8f24f/xhsemSCVR11mwp8uDdgumoqsjInEui3pPP0pPS+XApMxy2r456uUFsAPg3cIgAAAAAAAAAsNAm49ZT6/tFq/fwbYe89HTLwuSbIvleV7ouzX5lE0/XdknZ+BjXZmunuPZk7+D+o3rXrxw3jfLOPx92yGit/as2WwKxe39B5hsmo5nJ6el2sKCqga1n3k4QvSAAAJwpMoMMADjTivRoRSaSlY+vf5iT59hi8mJIkBVVXhCGcwpk8Z+p685X83z0a/dDuwdvw4mcFK8+D0+mlW7xLJYPBo4XAB4bfu3qXv5sfm0w5Z6xWoa706aj/3syl//ESly/cvvzm5trD6O3N7b3Vk0Zytf3iGpTYQu+mbB8/cFl4nPeIdt8vb+Ff0UDAAAAAACg3vfG1OZxAxU1AAAAAAAAAACwLNB1g7kM/gKVNRB8i1UAAA==",
+  "olean_digest": "0b7efb2577540ef3c1673a2a493fb7173078cbce493c76a65be2089c960d7c8d",
+  "whole_proof": false,
+  "axioms": null,
+  "final": false
+}

@@ -1,0 +1,24 @@
+{
+  "format": "rah/build/1",
+  "tool": "riemann-at-home 1.1.0",
+  "archive_sha256": "9631b4f020199e580ba86178cb56c6e9b09f690c2369a80dc4334aa93f49c7fc",
+  "toolchain": "leanprover/lean4:v4.33.1",
+  "mathlib_rev": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "build_folder": "/opt/riemann-at-home/lean",
+  "build_id": "f4c95dea292d3709",
+  "machine": {
+    "os": "Linux 7.0.0-44-generic",
+    "arch": "x86_64",
+    "cpu": "QEMU Virtual CPU version 2.5+",
+    "cores": 32
+  },
+  "started": "2026-11-26T04:29:44Z",
+  "recorded": "2026-11-26T08:24:54Z",
+  "busy_seconds": 14022,
+  "modules_compiled": 11214,
+  "bitmap_b64": "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",
+  "olean_digest": "42ff57c0ff1ff6fa880c0c7e98595d4f5b7324f2033ad9c046f7c678ab80b59e",
+  "whole_proof": false,
+  "axioms": null,
+  "final": false
+}

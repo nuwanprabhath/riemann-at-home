@@ -1,0 +1,26 @@
+{
+  "format": "rah/build/1",
+  "tool": "riemann-at-home 1.1.0",
+  "proof": "300k",
+  "source_commit": "72fead102f663d5c7a407964a13dc0cf9d977207",
+  "toolchain": "leanprover/lean4:v4.35.0",
+  "mathlib_rev": "56a005855ea17e0b0958f73ec801ae140b0a1679",
+  "build_folder": "/Users/Shared/riemann-at-home/grh",
+  "build_id": "c1aaa4bb47ead3ee",
+  "machine": {
+    "os": "Darwin 27.2.0",
+    "arch": "arm64",
+    "cpu": "Apple M2 Pro",
+    "cores": 12
+  },
+  "started": "2026-11-26T12:02:13Z",
+  "recorded": "2026-11-26T12:22:54Z",
+  "busy_seconds": 1135,
+  "modules_compiled": 251,
+  "bitmap_b64": "H4sIAAAAAAAC/9NvsGUwefD9v+/7ncwNP/79Z+eeo/CE8SX37Tg1A4aGP3///973/3/5x67OYIbUhu+8BhlsQgwMDhwczEz+DAwBLo0cDCDAysDAAmYwOD1gYEhgcAIKOwB5B/6DSBYAMfoDsWUAAAA=",
+  "olean_digest": "8f43a9ea26ffb577faf73de17f3b245873757f2eca02d537ce559b33ae4dee36",
+  "whole_proof": false,
+  "axioms": null,
+  "final": false,
+  "display_name": "jimjones"
+}
